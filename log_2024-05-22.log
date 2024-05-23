@@ -1,0 +1,322 @@
+2024-05-22 11:04:01,724 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-22 11:04:16,980 - INFO - Opening Tab 1
+2024-05-22 11:04:17,581 - INFO - Opening Tab 2
+2024-05-22 11:04:27,369 - INFO - Total tabs: 3
+2024-05-22 11:04:27,371 - INFO - Tab index: 0, Window handle: A4E39F7458B01D8E9F14416E2A1EF091
+2024-05-22 11:04:27,371 - INFO - Tab index: 1, Window handle: 3999CD3347623DC60DE53C5EE06CD460
+2024-05-22 11:04:27,371 - INFO - Tab index: 2, Window handle: FC6FC89DE70BED11F41721386B145A17
+2024-05-22 11:04:27,371 - INFO - TestFunction1
+2024-05-22 11:04:27,436 - INFO - Switched to Tab 1
+2024-05-22 11:07:16,270 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-22 11:07:18,382 - INFO - Opening Tab 1
+2024-05-22 11:07:23,742 - INFO - Opening Tab 2
+2024-05-22 11:07:32,160 - INFO - Total tabs: 3
+2024-05-22 11:07:32,161 - INFO - Tab index: 0, Window handle: 4872E56F77890191A904CDC33CA4ADFE
+2024-05-22 11:07:32,161 - INFO - Tab index: 1, Window handle: 64F0D3417D0BA38E0CEE767978A7849E
+2024-05-22 11:07:32,161 - INFO - Tab index: 2, Window handle: F86103A5840031A3A04E533ACBC0BCB2
+2024-05-22 11:07:32,161 - INFO - TestFunction1
+2024-05-22 11:07:32,170 - INFO - Switched to Tab 1
+2024-05-22 11:07:59,861 - INFO - TestFunction2
+2024-05-22 11:07:59,902 - INFO - Switched to Tab 2
+2024-05-22 11:08:08,693 - ERROR - Exception occurred: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=125.0.6422.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00A4B793+45827]
+	(No symbol) [0x009DDB74]
+	(No symbol) [0x008D150F]
+	(No symbol) [0x008D660F]
+	(No symbol) [0x008D8298]
+	(No symbol) [0x008D8310]
+	(No symbol) [0x00913A82]
+	(No symbol) [0x009084E2]
+	(No symbol) [0x00932DFC]
+	(No symbol) [0x00908075]
+	(No symbol) [0x00933094]
+	(No symbol) [0x0094C034]
+	(No symbol) [0x00932B96]
+	(No symbol) [0x00906998]
+	(No symbol) [0x0090751D]
+	GetHandleVerifier [0x00D043C3+2899763]
+	GetHandleVerifier [0x00D577ED+3240797]
+	GetHandleVerifier [0x00AD1264+593364]
+	GetHandleVerifier [0x00AD818C+621820]
+	(No symbol) [0x009E6F54]
+	(No symbol) [0x009E3658]
+	(No symbol) [0x009E37F7]
+	(No symbol) [0x009D58AE]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-22 11:08:09,700 - INFO - Failed, Trying 2 time
+2024-05-22 11:08:09,700 - INFO - TestFunction1
+2024-05-22 11:08:09,759 - INFO - Switched to Tab 1
+2024-05-22 11:08:21,580 - INFO - TestFunction2
+2024-05-22 11:08:21,626 - INFO - Switched to Tab 2
+2024-05-22 11:08:35,749 - ERROR - Exception occurred: 'bool' object has no attribute 'text'
+2024-05-22 11:08:36,750 - INFO - Failed, Trying 3 time
+2024-05-22 11:08:36,750 - INFO - TestFunction1
+2024-05-22 11:08:36,773 - INFO - Switched to Tab 1
+2024-05-22 11:08:46,750 - ERROR - Exception occurred: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=125.0.6422.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00A4B793+45827]
+	(No symbol) [0x009DDB74]
+	(No symbol) [0x008D150F]
+	(No symbol) [0x008D660F]
+	(No symbol) [0x008D8298]
+	(No symbol) [0x008D8310]
+	(No symbol) [0x00913A82]
+	(No symbol) [0x009084E2]
+	(No symbol) [0x00932DFC]
+	(No symbol) [0x00908075]
+	(No symbol) [0x00933094]
+	(No symbol) [0x0094C034]
+	(No symbol) [0x00932B96]
+	(No symbol) [0x00906998]
+	(No symbol) [0x0090751D]
+	GetHandleVerifier [0x00D043C3+2899763]
+	GetHandleVerifier [0x00D577ED+3240797]
+	GetHandleVerifier [0x00AD1264+593364]
+	GetHandleVerifier [0x00AD818C+621820]
+	(No symbol) [0x009E6F54]
+	(No symbol) [0x009E3658]
+	(No symbol) [0x009E37F7]
+	(No symbol) [0x009D58AE]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-22 11:08:47,764 - INFO - Failed, Trying 4 time
+2024-05-22 11:08:47,764 - INFO - TestFunction1
+2024-05-22 11:08:47,781 - INFO - Switched to Tab 1
+2024-05-22 11:12:56,048 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-22 11:12:58,235 - INFO - Opening Tab 1
+2024-05-22 11:13:04,908 - INFO - Opening Tab 2
+2024-05-22 11:13:14,682 - INFO - Total tabs: 3
+2024-05-22 11:13:14,689 - INFO - Tab index: 0, Window handle: 9DAFD2D2FE4068BF3B1215A39F3184D4
+2024-05-22 11:13:14,689 - INFO - Tab index: 1, Window handle: 5BF6F2AE1221277F4AC9D08901D706AC
+2024-05-22 11:13:14,690 - INFO - Tab index: 2, Window handle: D43FD4EACFDAC86D932C6CF5F49272DA
+2024-05-22 11:13:14,690 - INFO - TestFunction1
+2024-05-22 11:13:14,714 - INFO - Switched to Tab 1
+2024-05-22 11:13:43,056 - INFO - TestFunction2
+2024-05-22 11:13:43,081 - INFO - Switched to Tab 2
+2024-05-22 11:13:55,386 - ERROR - Exception occurred: 'bool' object has no attribute 'text'
+2024-05-22 11:13:56,387 - INFO - Failed, Trying 2 time
+2024-05-22 11:13:56,387 - INFO - TestFunction1
+2024-05-22 11:13:56,436 - INFO - Switched to Tab 1
+2024-05-22 11:14:07,463 - INFO - TestFunction2
+2024-05-22 11:14:07,481 - INFO - Switched to Tab 2
+2024-05-22 11:14:18,306 - ERROR - Exception occurred: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=125.0.6422.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0046B793+45827]
+	(No symbol) [0x003FDB74]
+	(No symbol) [0x002F150F]
+	(No symbol) [0x002F660F]
+	(No symbol) [0x002F8298]
+	(No symbol) [0x002F8310]
+	(No symbol) [0x00333A82]
+	(No symbol) [0x003284E2]
+	(No symbol) [0x00352DFC]
+	(No symbol) [0x00328075]
+	(No symbol) [0x00353094]
+	(No symbol) [0x0036C034]
+	(No symbol) [0x00352B96]
+	(No symbol) [0x00326998]
+	(No symbol) [0x0032751D]
+	GetHandleVerifier [0x007243C3+2899763]
+	GetHandleVerifier [0x007777ED+3240797]
+	GetHandleVerifier [0x004F1264+593364]
+	GetHandleVerifier [0x004F818C+621820]
+	(No symbol) [0x00406F54]
+	(No symbol) [0x00403658]
+	(No symbol) [0x004037F7]
+	(No symbol) [0x003F58AE]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-22 11:14:19,313 - INFO - Failed, Trying 3 time
+2024-05-22 11:14:19,313 - INFO - TestFunction1
+2024-05-22 11:14:19,330 - INFO - Switched to Tab 1
+2024-05-22 11:15:45,293 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-22 11:15:48,197 - INFO - Opening Tab 1
+2024-05-22 11:15:57,960 - INFO - Opening Tab 2
+2024-05-22 11:16:06,426 - INFO - Total tabs: 3
+2024-05-22 11:16:06,427 - INFO - Tab index: 0, Window handle: EF6602870DD6808575F0E47DCFAC9D48
+2024-05-22 11:16:06,427 - INFO - Tab index: 1, Window handle: 1C92727057EADFD1B50C5840ED8644BB
+2024-05-22 11:16:06,427 - INFO - Tab index: 2, Window handle: 543BCC250786E9A67FE28EF7277FE63A
+2024-05-22 11:16:06,427 - INFO - TestFunction1
+2024-05-22 11:16:06,439 - INFO - Switched to Tab 1
+2024-05-22 11:16:36,944 - INFO - TestFunction2
+2024-05-22 11:16:36,963 - INFO - Switched to Tab 2
+2024-05-22 11:16:50,251 - ERROR - Exception occurred: 'bool' object has no attribute 'text'
+2024-05-22 11:16:51,251 - INFO - Failed, Trying 2 time
+2024-05-22 11:16:51,251 - INFO - TestFunction1
+2024-05-22 11:16:51,295 - INFO - Switched to Tab 1
+2024-05-22 11:17:01,761 - INFO - TestFunction2
+2024-05-22 11:17:01,803 - INFO - Switched to Tab 2
+2024-05-22 11:17:14,235 - ERROR - Exception occurred: 'bool' object has no attribute 'text'
+2024-05-22 11:17:15,235 - INFO - Failed, Trying 3 time
+2024-05-22 11:17:15,235 - INFO - TestFunction1
+2024-05-22 11:17:15,290 - INFO - Switched to Tab 1
+2024-05-22 11:17:26,344 - INFO - TestFunction2
+2024-05-22 11:17:26,373 - INFO - Switched to Tab 2
+2024-05-22 11:21:10,640 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-22 11:21:12,741 - INFO - Opening Tab 1
+2024-05-22 11:21:18,082 - INFO - Opening Tab 2
+2024-05-22 11:21:26,467 - INFO - Total tabs: 3
+2024-05-22 11:21:26,468 - INFO - Tab index: 0, Window handle: 1009A33FB91C616AE84EF461261E0D93
+2024-05-22 11:21:26,468 - INFO - Tab index: 1, Window handle: 95FC6275FB366B1590F8226CD52E6414
+2024-05-22 11:21:26,468 - INFO - Tab index: 2, Window handle: CE9FE400BB302F3E772D4AA96B91CABC
+2024-05-22 11:21:26,468 - INFO - TestFunction1
+2024-05-22 11:21:26,486 - INFO - Switched to Tab 1
+2024-05-22 11:22:29,592 - INFO - TestFunction2
+2024-05-22 11:22:29,618 - INFO - Switched to Tab 2
+2024-05-22 11:22:42,140 - INFO - TestFunction1 Successful
+2024-05-22 11:22:43,699 - INFO - TestFunction2 Successful
+2024-05-22 11:50:54,608 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-22 11:50:58,171 - INFO - Opening Tab 1
+2024-05-22 11:50:59,203 - INFO - Opening Tab 2
+2024-05-22 11:51:11,496 - INFO - Total tabs: 3
+2024-05-22 11:51:11,497 - INFO - Tab index: 0, Window handle: 97BE49BF2F45DF1DF3F145A854C55851
+2024-05-22 11:51:11,497 - INFO - Tab index: 1, Window handle: 331ADE36EC11729ED1FCF8CC846DB14A
+2024-05-22 11:51:11,497 - INFO - Tab index: 2, Window handle: 7ADAA6E825CC57E337F5C8A7E976EE50
+2024-05-22 11:51:11,498 - INFO - TestFunction1
+2024-05-22 11:51:11,514 - INFO - Switched to Tab 1
+2024-05-22 12:04:01,920 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-22 12:04:04,065 - INFO - Opening Tab 1
+2024-05-22 12:04:04,319 - INFO - Opening Tab 2
+2024-05-22 12:04:16,128 - INFO - Total tabs: 3
+2024-05-22 12:04:16,131 - INFO - Tab index: 0, Window handle: 907835D6B4694B5953F9D4384E60B661
+2024-05-22 12:04:16,131 - INFO - Tab index: 1, Window handle: 8994E0A4BAD04E15A5D7D2DAD87EB4FD
+2024-05-22 12:04:16,131 - INFO - Tab index: 2, Window handle: A6F7A999F2C8A219F8D815DE3145051F
+2024-05-22 12:04:16,131 - INFO - TestFunction11
+2024-05-22 12:04:16,157 - INFO - Switched to Tab 1
+2024-05-22 12:09:23,718 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-22 12:09:25,946 - INFO - Opening Tab 1
+2024-05-22 12:13:44,864 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-22 12:13:46,987 - INFO - Opening Tab 1
+2024-05-22 12:13:52,616 - INFO - Opening Tab 2
+2024-05-22 12:16:10,335 - INFO - Opening Tab 1
+2024-05-22 12:16:36,973 - INFO - Opening Tab 2
+2024-05-22 12:18:05,727 - INFO - Total tabs: 3
+2024-05-22 12:18:05,727 - INFO - Tab index: 0, Window handle: 87766B8694D9FDA89BE8F00149F1D676
+2024-05-22 12:18:05,727 - INFO - Tab index: 1, Window handle: 0C66F8658872280A8DE5AB63DB56018D
+2024-05-22 12:18:05,727 - INFO - Tab index: 2, Window handle: 96083AB67020423AC4EE23047AE0D686
+2024-05-22 12:18:05,727 - INFO - TestFunction1
+2024-05-22 12:18:05,747 - INFO - Switched to Tab 1
+2024-05-22 14:39:22,992 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-22 14:39:30,973 - INFO - Network throttling enabled: Slow 3G speed
+2024-05-22 14:39:30,973 - INFO - Opening Tab 1
+2024-05-22 14:39:31,200 - INFO - Opening Tab 2
+2024-05-22 14:39:47,432 - INFO - Total tabs: 3
+2024-05-22 14:39:47,433 - INFO - Tab index: 0, Window handle: 3999B808C25F198DDD6EDBA811168B07
+2024-05-22 14:39:47,433 - INFO - Tab index: 1, Window handle: EB41D99B470F01C5318F361E53AFA82A
+2024-05-22 14:39:47,434 - INFO - Tab index: 2, Window handle: 451DF901499B85F4D6046BC872CA97B9
+2024-05-22 14:39:47,434 - INFO - TestFunction1
+2024-05-22 14:39:47,446 - INFO - Switched to Tab 1
+2024-05-22 14:40:40,220 - ERROR - Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0075B793+45827]
+	(No symbol) [0x006EDB74]
+	(No symbol) [0x005E150F]
+	(No symbol) [0x006220BC]
+	(No symbol) [0x0062216B]
+	(No symbol) [0x0065E0F2]
+	(No symbol) [0x00642E44]
+	(No symbol) [0x0065C034]
+	(No symbol) [0x00642B96]
+	(No symbol) [0x00616998]
+	(No symbol) [0x0061751D]
+	GetHandleVerifier [0x00A143C3+2899763]
+	GetHandleVerifier [0x00A677ED+3240797]
+	GetHandleVerifier [0x007E1264+593364]
+	GetHandleVerifier [0x007E818C+621820]
+	(No symbol) [0x006F6F54]
+	(No symbol) [0x006F3658]
+	(No symbol) [0x006F37F7]
+	(No symbol) [0x006E58AE]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-22 14:40:41,221 - INFO - Failed, Trying 2 time
+2024-05-22 14:40:41,221 - INFO - TestFunction1
+2024-05-22 14:40:41,225 - INFO - Switched to Tab 1
+2024-05-22 14:41:21,509 - INFO - TestFunction2
+2024-05-22 14:41:21,549 - INFO - Switched to Tab 2
+2024-05-22 14:41:28,277 - ERROR - Exception occurred: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=125.0.6422.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0075B793+45827]
+	(No symbol) [0x006EDB74]
+	(No symbol) [0x005E150F]
+	(No symbol) [0x005E660F]
+	(No symbol) [0x005E8298]
+	(No symbol) [0x005E8310]
+	(No symbol) [0x00627F89]
+	(No symbol) [0x00625E66]
+	(No symbol) [0x0062425B]
+	(No symbol) [0x00623823]
+	(No symbol) [0x006185EF]
+	(No symbol) [0x00642DFC]
+	(No symbol) [0x00618075]
+	(No symbol) [0x00643094]
+	(No symbol) [0x0065C034]
+	(No symbol) [0x00642B96]
+	(No symbol) [0x00616998]
+	(No symbol) [0x0061751D]
+	GetHandleVerifier [0x00A143C3+2899763]
+	GetHandleVerifier [0x00A677ED+3240797]
+	GetHandleVerifier [0x007E1264+593364]
+	GetHandleVerifier [0x007E818C+621820]
+	(No symbol) [0x006F6F54]
+	(No symbol) [0x006F3658]
+	(No symbol) [0x006F37F7]
+	(No symbol) [0x006E58AE]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-22 14:41:29,278 - INFO - Failed, Trying 3 time
+2024-05-22 14:41:29,278 - INFO - TestFunction2
+2024-05-22 14:41:29,325 - INFO - Switched to Tab 1
+2024-05-22 14:41:44,846 - ERROR - Exception occurred: Message: element click intercepted: Element <span class="dIB ellipsistext vam" style="max-width: calc(100% - 190px);">...</span> is not clickable at point (373, 377). Other element would receive the click: <div class="dummy_Body">...</div>
+  (Session info: chrome=125.0.6422.61)
+Stacktrace:
+	GetHandleVerifier [0x0075B793+45827]
+	(No symbol) [0x006EDB74]
+	(No symbol) [0x005E150F]
+	(No symbol) [0x00628052]
+	(No symbol) [0x006263D8]
+	(No symbol) [0x0062425B]
+	(No symbol) [0x00623823]
+	(No symbol) [0x006185EF]
+	(No symbol) [0x00642DFC]
+	(No symbol) [0x00618075]
+	(No symbol) [0x00643094]
+	(No symbol) [0x0065C034]
+	(No symbol) [0x00642B96]
+	(No symbol) [0x00616998]
+	(No symbol) [0x0061751D]
+	GetHandleVerifier [0x00A143C3+2899763]
+	GetHandleVerifier [0x00A677ED+3240797]
+	GetHandleVerifier [0x007E1264+593364]
+	GetHandleVerifier [0x007E818C+621820]
+	(No symbol) [0x006F6F54]
+	(No symbol) [0x006F3658]
+	(No symbol) [0x006F37F7]
+	(No symbol) [0x006E58AE]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-22 14:41:45,849 - INFO - Failed, Trying 4 time
+2024-05-22 14:41:45,849 - INFO - TestFunction2
+2024-05-22 14:41:45,866 - INFO - Switched to Tab 1
+2024-05-22 14:42:15,522 - INFO - TestFunction3
+2024-05-22 14:42:15,572 - INFO - Switched to Tab 2
+2024-05-22 14:42:54,876 - INFO - TestFunction1 Successful
+2024-05-22 14:43:00,217 - INFO - TestFunction2 Successful

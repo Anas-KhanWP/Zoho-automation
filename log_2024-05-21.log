@@ -1,0 +1,285 @@
+2024-05-21 18:33:48,781 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-21 18:34:02,133 - INFO - Opening Tab 0
+2024-05-21 18:34:02,495 - INFO - Opening Tab 1
+2024-05-21 18:34:02,871 - INFO - Opening Tab 2
+2024-05-21 18:34:03,109 - INFO - Opening Tab 3
+2024-05-21 18:35:56,713 - INFO - Opening Tab 1
+2024-05-21 18:35:57,700 - INFO - Opening Tab 2
+2024-05-21 18:36:10,843 - INFO - TestFunction1
+2024-05-21 18:36:10,856 - INFO - Switched to Tab 1
+2024-05-21 18:36:38,845 - ERROR - Exception occurred: can only concatenate str (not "int") to str
+2024-05-21 18:36:39,858 - INFO - Failed, Trying 2 time
+2024-05-21 18:36:39,858 - INFO - TestFunction1
+2024-05-21 18:36:39,867 - INFO - Switched to Tab 1
+2024-05-21 18:36:46,725 - ERROR - Exception occurred: can only concatenate str (not "int") to str
+2024-05-21 18:36:47,726 - INFO - Failed, Trying 3 time
+2024-05-21 18:36:47,726 - INFO - TestFunction1
+2024-05-21 18:36:47,739 - INFO - Switched to Tab 1
+2024-05-21 18:41:38,139 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-21 18:41:39,840 - INFO - Opening Tab 1
+2024-05-21 18:41:41,302 - INFO - Opening Tab 2
+2024-05-21 18:41:55,145 - INFO - Total tabs: 3
+2024-05-21 18:41:55,150 - INFO - Tab index: 0, Window handle: 045EFDD86A64E4ADEE4E1F14747DFCFD
+2024-05-21 18:41:55,150 - INFO - Tab index: 1, Window handle: 260DB06A1C6E2484868539FA202D076E
+2024-05-21 18:41:55,150 - INFO - Tab index: 2, Window handle: B69CE2821C2BAF76858F293F4CAA542F
+2024-05-21 18:41:55,150 - INFO - TestFunction0
+2024-05-21 18:41:55,177 - INFO - Switched to Tab 0
+2024-05-21 18:42:55,281 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-21 18:42:57,237 - INFO - Opening Tab 1
+2024-05-21 18:42:58,637 - INFO - Opening Tab 2
+2024-05-21 18:43:11,614 - INFO - Total tabs: 3
+2024-05-21 18:43:11,615 - INFO - Tab index: 0, Window handle: DED35C6C068C4EA88C35C7F0DA904A00
+2024-05-21 18:43:11,616 - INFO - Tab index: 1, Window handle: 391E066BD355AC05E11ACFD3D5827834
+2024-05-21 18:43:11,616 - INFO - Tab index: 2, Window handle: 48F936785F01FFB04E0F6B594DF719CF
+2024-05-21 18:43:11,616 - INFO - TestFunction1
+2024-05-21 18:43:11,624 - INFO - Switched to Tab 0
+2024-05-21 18:44:20,500 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-21 18:44:22,011 - INFO - Opening Tab 1
+2024-05-21 18:44:27,995 - INFO - Opening Tab 2
+2024-05-21 18:44:39,294 - INFO - Total tabs: 3
+2024-05-21 18:44:39,294 - INFO - Tab index: 0, Window handle: A8A136753FD0DFA6ABA555E1D330E282
+2024-05-21 18:44:39,294 - INFO - Tab index: 1, Window handle: 0C584C0F08ECC7864F89986D8E86866C
+2024-05-21 18:44:39,294 - INFO - Tab index: 2, Window handle: BC2A5B58F0F7E52F676BAC2DF94EC439
+2024-05-21 18:44:39,294 - INFO - TestFunction1
+2024-05-21 18:44:39,310 - INFO - Switched to Tab 1
+2024-05-21 18:45:34,535 - ERROR - Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00540B13+45059]
+	(No symbol) [0x004D68A4]
+	(No symbol) [0x003D14FF]
+	(No symbol) [0x0041205C]
+	(No symbol) [0x0041210B]
+	(No symbol) [0x0044E022]
+	(No symbol) [0x00432DA4]
+	(No symbol) [0x0044BF64]
+	(No symbol) [0x00432AF6]
+	(No symbol) [0x00406948]
+	(No symbol) [0x004074CD]
+	GetHandleVerifier [0x007FF9A3+2924179]
+	GetHandleVerifier [0x008536ED+3267549]
+	GetHandleVerifier [0x005C4474+584036]
+	GetHandleVerifier [0x005CB1DC+612044]
+	(No symbol) [0x004DFAB4]
+	(No symbol) [0x004DC358]
+	(No symbol) [0x004DC4F7]
+	(No symbol) [0x004CE46E]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-21 18:45:35,536 - INFO - Failed, Trying 2 time
+2024-05-21 18:45:35,536 - INFO - TestFunction1
+2024-05-21 18:45:35,545 - INFO - Switched to Tab 1
+2024-05-21 18:46:13,349 - ERROR - Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00540B13+45059]
+	(No symbol) [0x004D68A4]
+	(No symbol) [0x003D14FF]
+	(No symbol) [0x0041205C]
+	(No symbol) [0x0041210B]
+	(No symbol) [0x0044E022]
+	(No symbol) [0x00432DA4]
+	(No symbol) [0x0044BF64]
+	(No symbol) [0x00432AF6]
+	(No symbol) [0x00406948]
+	(No symbol) [0x004074CD]
+	GetHandleVerifier [0x007FF9A3+2924179]
+	GetHandleVerifier [0x008536ED+3267549]
+	GetHandleVerifier [0x005C4474+584036]
+	GetHandleVerifier [0x005CB1DC+612044]
+	(No symbol) [0x004DFAB4]
+	(No symbol) [0x004DC358]
+	(No symbol) [0x004DC4F7]
+	(No symbol) [0x004CE46E]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-21 18:46:14,350 - INFO - Failed, Trying 3 time
+2024-05-21 18:46:14,351 - INFO - TestFunction1
+2024-05-21 18:46:14,365 - INFO - Switched to Tab 1
+2024-05-21 18:47:03,329 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-21 18:47:05,599 - INFO - Opening Tab 1
+2024-05-21 18:47:06,945 - INFO - Opening Tab 2
+2024-05-21 18:47:22,409 - INFO - Total tabs: 3
+2024-05-21 18:47:22,417 - INFO - Tab index: 0, Window handle: DB5AF9F2EF166B9A8596999115D972B7
+2024-05-21 18:47:22,418 - INFO - Tab index: 1, Window handle: E143310B02EA8C08F4AD0D13D78599FE
+2024-05-21 18:47:22,418 - INFO - Tab index: 2, Window handle: 566E3EDCEBD04D7ADB9CF73BC1B6F806
+2024-05-21 18:47:22,418 - INFO - TestFunction1
+2024-05-21 18:47:22,516 - INFO - Switched to Tab 1
+2024-05-21 18:48:26,701 - ERROR - Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01060B13+45059]
+	(No symbol) [0x00FF68A4]
+	(No symbol) [0x00EF14FF]
+	(No symbol) [0x00F3205C]
+	(No symbol) [0x00F3210B]
+	(No symbol) [0x00F6E022]
+	(No symbol) [0x00F52DA4]
+	(No symbol) [0x00F6BF64]
+	(No symbol) [0x00F52AF6]
+	(No symbol) [0x00F26948]
+	(No symbol) [0x00F274CD]
+	GetHandleVerifier [0x0131F9A3+2924179]
+	GetHandleVerifier [0x013736ED+3267549]
+	GetHandleVerifier [0x010E4474+584036]
+	GetHandleVerifier [0x010EB1DC+612044]
+	(No symbol) [0x00FFFAB4]
+	(No symbol) [0x00FFC358]
+	(No symbol) [0x00FFC4F7]
+	(No symbol) [0x00FEE46E]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-21 18:48:27,702 - INFO - Failed, Trying 2 time
+2024-05-21 18:48:27,702 - INFO - TestFunction1
+2024-05-21 18:48:27,711 - INFO - Switched to Tab 1
+2024-05-21 18:49:13,652 - ERROR - Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01060B13+45059]
+	(No symbol) [0x00FF68A4]
+	(No symbol) [0x00EF14FF]
+	(No symbol) [0x00F3205C]
+	(No symbol) [0x00F3210B]
+	(No symbol) [0x00F6E022]
+	(No symbol) [0x00F52DA4]
+	(No symbol) [0x00F6BF64]
+	(No symbol) [0x00F52AF6]
+	(No symbol) [0x00F26948]
+	(No symbol) [0x00F274CD]
+	GetHandleVerifier [0x0131F9A3+2924179]
+	GetHandleVerifier [0x013736ED+3267549]
+	GetHandleVerifier [0x010E4474+584036]
+	GetHandleVerifier [0x010EB1DC+612044]
+	(No symbol) [0x00FFFAB4]
+	(No symbol) [0x00FFC358]
+	(No symbol) [0x00FFC4F7]
+	(No symbol) [0x00FEE46E]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-21 18:49:14,656 - INFO - Failed, Trying 3 time
+2024-05-21 18:49:14,659 - INFO - TestFunction1
+2024-05-21 18:49:14,673 - INFO - Switched to Tab 1
+2024-05-21 18:50:11,443 - ERROR - Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01060B13+45059]
+	(No symbol) [0x00FF68A4]
+	(No symbol) [0x00EF14FF]
+	(No symbol) [0x00F3205C]
+	(No symbol) [0x00F3210B]
+	(No symbol) [0x00F6E022]
+	(No symbol) [0x00F52DA4]
+	(No symbol) [0x00F6BF64]
+	(No symbol) [0x00F52AF6]
+	(No symbol) [0x00F26948]
+	(No symbol) [0x00F274CD]
+	GetHandleVerifier [0x0131F9A3+2924179]
+	GetHandleVerifier [0x013736ED+3267549]
+	GetHandleVerifier [0x010E4474+584036]
+	GetHandleVerifier [0x010EB1DC+612044]
+	(No symbol) [0x00FFFAB4]
+	(No symbol) [0x00FFC358]
+	(No symbol) [0x00FFC4F7]
+	(No symbol) [0x00FEE46E]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-21 18:50:12,450 - INFO - Failed, Trying 4 time
+2024-05-21 18:50:12,450 - INFO - TestFunction1
+2024-05-21 18:50:12,460 - INFO - Switched to Tab 1
+2024-05-21 18:50:50,107 - ERROR - Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01060B13+45059]
+	(No symbol) [0x00FF68A4]
+	(No symbol) [0x00EF14FF]
+	(No symbol) [0x00F3205C]
+	(No symbol) [0x00F3210B]
+	(No symbol) [0x00F6E022]
+	(No symbol) [0x00F52DA4]
+	(No symbol) [0x00F6BF64]
+	(No symbol) [0x00F52AF6]
+	(No symbol) [0x00F26948]
+	(No symbol) [0x00F274CD]
+	GetHandleVerifier [0x0131F9A3+2924179]
+	GetHandleVerifier [0x013736ED+3267549]
+	GetHandleVerifier [0x010E4474+584036]
+	GetHandleVerifier [0x010EB1DC+612044]
+	(No symbol) [0x00FFFAB4]
+	(No symbol) [0x00FFC358]
+	(No symbol) [0x00FFC4F7]
+	(No symbol) [0x00FEE46E]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-21 18:50:51,108 - INFO - Failed, Trying 5 time
+2024-05-21 18:50:51,108 - INFO - TestFunction1
+2024-05-21 18:50:51,143 - INFO - Switched to Tab 1
+2024-05-21 18:54:39,374 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-21 18:54:41,536 - INFO - Opening Tab 1
+2024-05-21 18:54:42,224 - INFO - Opening Tab 2
+2024-05-21 18:54:54,521 - INFO - Total tabs: 3
+2024-05-21 18:54:54,525 - INFO - Tab index: 0, Window handle: 1864AD14A899B2172A74FE0134C27738
+2024-05-21 18:54:54,525 - INFO - Tab index: 1, Window handle: 485CE6C692CA5A1A2D35B9834917F33F
+2024-05-21 18:54:54,525 - INFO - Tab index: 2, Window handle: CBE79F0FAB45BE055B3D242821C5EB7E
+2024-05-21 18:54:54,525 - INFO - TestFunction1
+2024-05-21 18:54:54,556 - INFO - Switched to Tab 1
+2024-05-21 18:55:54,675 - ERROR - Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C40B13+45059]
+	(No symbol) [0x00BD68A4]
+	(No symbol) [0x00AD14FF]
+	(No symbol) [0x00B1205C]
+	(No symbol) [0x00B1210B]
+	(No symbol) [0x00B4E022]
+	(No symbol) [0x00B32DA4]
+	(No symbol) [0x00B4BF64]
+	(No symbol) [0x00B32AF6]
+	(No symbol) [0x00B06948]
+	(No symbol) [0x00B074CD]
+	GetHandleVerifier [0x00EFF9A3+2924179]
+	GetHandleVerifier [0x00F536ED+3267549]
+	GetHandleVerifier [0x00CC4474+584036]
+	GetHandleVerifier [0x00CCB1DC+612044]
+	(No symbol) [0x00BDFAB4]
+	(No symbol) [0x00BDC358]
+	(No symbol) [0x00BDC4F7]
+	(No symbol) [0x00BCE46E]
+	BaseThreadInitThunk [0x7718FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778F7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778F7C8E+238]
+
+2024-05-21 18:55:55,677 - INFO - Failed, Trying 2 time
+2024-05-21 18:55:55,677 - INFO - TestFunction1
+2024-05-21 18:55:55,691 - INFO - Switched to Tab 1
+2024-05-21 18:56:43,070 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-21 18:56:45,244 - INFO - Opening Tab 1
+2024-05-21 18:56:46,362 - INFO - Opening Tab 2
+2024-05-21 18:56:59,988 - INFO - Total tabs: 3
+2024-05-21 18:56:59,990 - INFO - Tab index: 0, Window handle: C60C49298E01349A95CCF07B3E1DFC2A
+2024-05-21 18:56:59,992 - INFO - Tab index: 1, Window handle: 5884B9F8E486E9666FF98BC25AAD8FD4
+2024-05-21 18:56:59,992 - INFO - Tab index: 2, Window handle: 3CF137EEED56B7B686BEC8F57DD0EC87
+2024-05-21 18:56:59,992 - INFO - TestFunction1
+2024-05-21 18:57:00,008 - INFO - Switched to Tab 1
+2024-05-21 18:58:21,460 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-21 18:58:22,925 - INFO - Opening Tab 1
+2024-05-21 18:58:23,383 - INFO - Opening Tab 2
+2024-05-21 18:58:38,933 - INFO - Total tabs: 3
+2024-05-21 18:58:38,935 - INFO - Tab index: 0, Window handle: 8FBAFF9E57D056BECF92D55EC88E0698
+2024-05-21 18:58:38,935 - INFO - Tab index: 1, Window handle: 9E915B2EBFA9E47E57C1F7ECB3406AA8
+2024-05-21 18:58:38,935 - INFO - Tab index: 2, Window handle: E36A29360D51B2BFC03991CB71041ACC
+2024-05-21 18:58:38,935 - INFO - TestFunction1
+2024-05-21 18:58:38,953 - INFO - Switched to Tab 1
+2024-05-21 18:59:46,012 - INFO - patching driver executable C:\Users\ANAS KHAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-21 18:59:47,586 - INFO - Opening Tab 1
+2024-05-21 18:59:48,694 - INFO - Opening Tab 2
+2024-05-21 19:00:02,042 - INFO - Total tabs: 3
+2024-05-21 19:00:02,053 - INFO - Tab index: 0, Window handle: FD801783101113F500FE894DFF40D32F
+2024-05-21 19:00:02,053 - INFO - Tab index: 1, Window handle: 7EC0D5D6D799FC0A92E6206B0F0B93F9
+2024-05-21 19:00:02,053 - INFO - Tab index: 2, Window handle: 5F7A2BFA2A4C08CF6594BCCF462D21FA
+2024-05-21 19:00:02,053 - INFO - TestFunction1
+2024-05-21 19:00:02,058 - INFO - Switched to Tab 1
